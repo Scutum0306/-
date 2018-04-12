@@ -94,9 +94,9 @@
     <th>Time</th>
   </tr>
   <tr>
-    <td>C++動態配置作業</td>
-    <td>malloc</td>
-    <td>https://paste.plurk.com/show/2626090/</td> 
+    <td>C++作業</td>
+    <td>動態配置</td>
+    <td><a href="https://paste.plurk.com/show/2626090/">程式碼</a></td> 
     <td>2016/04</td>
   </tr>
 </table>
@@ -114,13 +114,16 @@
   <tr>
     <td>互動腳本期中劇本</td>
     <td>迷途</td> 
-    <td>腳本：<br>https://drive.google.com/open?id=1HUZrU8YAR7fhQIKv6YTj0PTuI2Akg8FM<br>分鏡圖：<br>https://drive.google.com/open?id=1AoIi_iaEIbPhUvWK9pRINcKUhhFssRjw</td>
+    <td>
+      <a href="https://drive.google.com/open?id=1HUZrU8YAR7fhQIKv6YTj0PTuI2Akg8FM">腳本</a><br>
+      <a href="https://drive.google.com/open?id=1AoIi_iaEIbPhUvWK9pRINcKUhhFssRjw">分鏡圖</a>
+    </td>
     <td>2016/11</td>
   </tr>
   <tr>
     <td>互動腳本期末遊戲企劃</td>
-    <td>企劃書</td> 
-    <td>https://drive.google.com/open?id=1W9T-fJAcxApSw3GcoYF2l6tWkxvANush</td>
+    <td>Way to Home</td> 
+    <td><a href="https://drive.google.com/open?id=1W9T-fJAcxApSw3GcoYF2l6tWkxvANush">企劃書</a></td>
     <td>2017/01</td>
   </tr>
   <tr>
