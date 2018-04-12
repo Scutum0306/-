@@ -65,9 +65,21 @@
   </tr>
   <tr>
     <td>影像處理期末作業</td>
-    <td>PS期末_1/td> 
+    <td>PS期末_1</td> 
     <td>成品：https://images.plurk.com/25Pm6f4QDxJW9Tl8CaZz.jpg<hr>參考圖片：https://images.plurk.com/2x2Xpj0Rgwpo3c6lCaZz.jpg<hr>使用素材：<br>https://images.plurk.com/2k2MgFsDHvkNNz1lCaZz.jpg<br>https://images.plurk.com/7AKbEWaPB6YGTej7CaZz.jpg<br>https://images.plurk.com/4Nyi1yapNkPET1MaCaZz.jpg<br>https://images.plurk.com/5TPKznOew1SsP3t5CaZz.jpg<br>https://images.plurk.com/60Ntnq6UbFx79byvCaZz.jpg<br>https://images.plurk.com/4Br1UEMgzFxjyCGJCaZz.jpg<br>https://images.plurk.com/5fNoFlxasLqU4O74CaZz.jpg<br>https://images.plurk.com/1r1AD9sNCZ4X0xhoCaZz.jpg<br></td>
     <td>2016/04</td>
+  </tr>
+  <tr>
+    <td>互動腳本期中劇本</td>
+    <td>迷途</td> 
+    <td>腳本：<br>https://drive.google.com/open?id=1HUZrU8YAR7fhQIKv6YTj0PTuI2Akg8FM<br>分鏡圖：<br>https://drive.google.com/open?id=1AoIi_iaEIbPhUvWK9pRINcKUhhFssRjw</td>
+    <td>2016/11</td>
+  </tr>
+  <tr>
+    <td>互動腳本期末遊戲企劃</td>
+    <td>企劃書</td> 
+    <td>https://drive.google.com/open?id=1W9T-fJAcxApSw3GcoYF2l6tWkxvANush</td>
+    <td>2017/01</td>
   </tr>
 </table>
 
