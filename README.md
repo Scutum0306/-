@@ -174,6 +174,27 @@
     </td>
     <td>2017/01</td>
   </tr>
+  <tr>
+    <td>電腦繪圖－－網頁設計</td>
+    <td>Y's Stock</td> 
+    <td>
+      <a href="https://images.plurk.com/5ZiAffbXQaz3gGnJCaZz.jpg">首頁</a><br>
+      <a href="https://images.plurk.com/70uMUrQBjxbNw09nCaZz.jpg">內頁設計_1</a><br>
+      <a href="https://images.plurk.com/38Vd4fLGzPAEFE8kCaZz.jpg">內頁設計_2</a>
+    </td>
+    <td>2016/12</td>
+  </tr>
+  <tr>
+    <td>電腦繪圖－－海報設計</td>
+    <td>「糖」</td> 
+    <td>
+      <a href="https://images.plurk.com/7KiSZtqIesa8JDeCCaZz.jpg">糖粉</a><br>
+      <a href="https://images.plurk.com/6mcafRjrLblFUuVqCaZz.jpg">糖球</a><br>
+      <a href="https://images.plurk.com/d9vKJqjVHvXMJXunCaZz.jpg">麥芽糖</a><br>
+      <a href="https://images.plurk.com/g97zQhaPOm2ZJS9ECaZz.jpg">馬卡龍</a>
+    </td>
+    <td>2016/12</td>
+  </tr>
 </table>
 
 <h5>程式<h5>
@@ -231,5 +252,13 @@
       <a href="https://drive.google.com/open?id=1ra768rdDS4q87puLsT65aadezfcYiOF-">執行檔</a><br>
       <a href="https://paste.plurk.com/show/eL6GvbofMSSWOqsIoEOk/">程式碼</a></td>
     <td>2017/01</td>
+  </tr>
+  <tr>
+    <td>資料結構</td>
+    <td>記錄</td>
+    <td>
+      <a href="https://paste.plurk.com/show/ZISaO8D0pKA3UQEvNYPz/">stack</a><br>
+      <a href="https://paste.plurk.com/show/BUKCtxc2V4q1wlMeBHt4/">link</a></td>
+    <td>2016/10</td>
   </tr>
 </table>
