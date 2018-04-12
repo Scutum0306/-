@@ -72,13 +72,13 @@
       <a href="https://images.plurk.com/25Pm6f4QDxJW9Tl8CaZz.jpg">成品</a><hr>
       <a href="https://images.plurk.com/2x2Xpj0Rgwpo3c6lCaZz.jpg">參考圖片</a><hr>
       使用素材：<br>
-      <a href="https://images.plurk.com/2k2MgFsDHvkNNz1lCaZz.jpg">1</a><br>
-      <a href="https://images.plurk.com/7AKbEWaPB6YGTej7CaZz.jpg">2</a><br>
-      <a href="https://images.plurk.com/4Nyi1yapNkPET1MaCaZz.jpg">3</a><br>
-      <a href="https://images.plurk.com/5TPKznOew1SsP3t5CaZz.jpg">4</a><br>
-      <a href="https://images.plurk.com/60Ntnq6UbFx79byvCaZz.jpg">5</a><br>
-      <a href="https://images.plurk.com/4Br1UEMgzFxjyCGJCaZz.jpg">6</a><br>
-      <a href="https://images.plurk.com/5fNoFlxasLqU4O74CaZz.jpg">7</a><br>
+      <a href="https://images.plurk.com/2k2MgFsDHvkNNz1lCaZz.jpg">1</a>
+      <a href="https://images.plurk.com/7AKbEWaPB6YGTej7CaZz.jpg">2</a>
+      <a href="https://images.plurk.com/4Nyi1yapNkPET1MaCaZz.jpg">3</a>
+      <a href="https://images.plurk.com/5TPKznOew1SsP3t5CaZz.jpg">4</a>
+      <a href="https://images.plurk.com/60Ntnq6UbFx79byvCaZz.jpg">5</a>
+      <a href="https://images.plurk.com/4Br1UEMgzFxjyCGJCaZz.jpg">6</a>
+      <a href="https://images.plurk.com/5fNoFlxasLqU4O74CaZz.jpg">7</a>
       <a href="https://images.plurk.com/1r1AD9sNCZ4X0xhoCaZz.jpg">8</a>
     </td>
     <td>2016/04</td>
@@ -129,26 +129,49 @@
   <tr>
     <td>3Dmax練習</td>
     <td>3Dmax練習</td> 
-    <td>https://images.plurk.com/5OGiziShfXOsEjUCCaZz.jpg<br>https://images.plurk.com/3wSAvUVbQe4gBMQcCaZz.jpg<br>https://images.plurk.com/4z3F9SfDVv9KHELSCaZz.jpg<br>https://images.plurk.com/4NtERuGr3WfVg4SICaZz.jpg<br>https://images.plurk.com/6Yor89JLGBU4brWrCaZz.jpg<br>https://images.plurk.com/6KMbTmUpb7bvylBTCaZz.jpg<br>https://images.plurk.com/4r17499J9xGDisoJCaZz.jpg<br>https://images.plurk.com/672vhC2NIWji9YGvCaZz.jpg<br>https://images.plurk.com/2iGsOORXZmtu2TZVCaZz.jpg<br>https://images.plurk.com/6SEjObrDRFWK1HI4CaZz.jpg<br>https://images.plurk.com/5xv2IO57mdjFKBDRCaZz.jpg<br>https://images.plurk.com/JVCDHfpsrvlNGXivCaZz.jpg<br>https://images.plurk.com/3QDsl0uu4Gk0VE7FCaZz.jpg </td>
+    <td>
+      <a href="https://images.plurk.com/2iGsOORXZmtu2TZVCaZz.jpg">1</a>
+      <a href="https://images.plurk.com/6SEjObrDRFWK1HI4CaZz.jpg">2</a>
+      <a href="https://images.plurk.com/5xv2IO57mdjFKBDRCaZz.jpg">3</a>
+      <a href="https://images.plurk.com/JVCDHfpsrvlNGXivCaZz.jpg">4</a>
+      <a href="https://images.plurk.com/3QDsl0uu4Gk0VE7FCaZz.jpg">5</a>
+    </td>
     <td>2016/12</td>
   </tr>
   <tr>
     <td>平面設計</td>
     <td>課堂作業</td> 
-    <td>菜單：<br>https://images.plurk.com/5UhrQbsYAhjE1vgICaZz.jpg<hr>網路成癮防治：<br>https://images.plurk.com/2VfxVPXxUkv8amR5CaZz.jpg </td>
+    <td>
+      <a href="https://images.plurk.com/5UhrQbsYAhjE1vgICaZz.jpg">菜單</a><br>
+      <a href="https://images.plurk.com/2VfxVPXxUkv8amR5CaZz.jpg">網路成癮防治</a>
+    </td>
     <td>2016/10</td>
   </tr>
   <tr>
     <td>明信片設計</td>
     <td>Less Trash More Life</td> 
-    <td>正面<br>https://images.plurk.com/f4YW8KQqTJTgSZ29CaZz.jpg<br>https://images.plurk.com/4HnCACYVY60fdQGmCaZz.jpg<br>https://images.plurk.com/5xIJDvtok7cyWGaXCaZz.jpg  <hr>背面：<br>https://images.plurk.com/e2fGobj9c0GIHiawCaZz.jpg<br>
-https://images.plurk.com/31QTrK25atLWRSb4CaZz.jpg<br>https://images.plurk.com/4VymxT8G1wDPn89BCaZz.jpg </td>
+    <td>
+      <a href="https://images.plurk.com/f4YW8KQqTJTgSZ29CaZz.jpg">LTML_1_正面</a>
+      <a href="https://images.plurk.com/e2fGobj9c0GIHiawCaZz.jpg">LTML_1_背面</a><br>
+      <a href="https://images.plurk.com/4HnCACYVY60fdQGmCaZz.jpg">LTML_2_正面</a>
+      <a href="https://images.plurk.com/31QTrK25atLWRSb4CaZz.jpg">LTML_2_背面</a><br>
+      <a href="https://images.plurk.com/5xIJDvtok7cyWGaXCaZz.jpg">LTML_3_正面</a>
+      <a href="https://images.plurk.com/4VymxT8G1wDPn89BCaZz.jpg">LTML_3_背面</a>
+    </td>
     <td>2016/11</td>
   </tr>
   <tr>
     <td>活動導覽手冊設計</td>
     <td>米干美食文化祭</td> 
-    <td>手冊：<br>https://images.plurk.com/7MEaqSRP60B28XfHCaZz.jpg<br>https://images.plurk.com/6pzNIN2D8uzzIkI2CaZz.jpg<br>https://images.plurk.com/7hxV6JEnGyLY6QbGCaZz.jpg<br>https://images.plurk.com/1Om0Jkc5D70JLSDCCaZz.jpg  <hr>導覽單：<br>https://images.plurk.com/24zyqo1cXyFBB0fMCaZz.jpg </td>
+    <td>
+      手冊：
+      <a href="https://images.plurk.com/7MEaqSRP60B28XfHCaZz.jpg">1</a>
+      <a href="https://images.plurk.com/6pzNIN2D8uzzIkI2CaZz.jpg">2</a>
+      <a href="https://images.plurk.com/7hxV6JEnGyLY6QbGCaZz.jpg">3</a>
+      <a href="https://images.plurk.com/1Om0Jkc5D70JLSDCCaZz.jpg">4</a>
+      <hr>
+      <a href="https://images.plurk.com/24zyqo1cXyFBB0fMCaZz.jpg">導覽單</a> 
+    </td>
     <td>2017/01</td>
   </tr>
 </table>
@@ -162,15 +185,42 @@ https://images.plurk.com/31QTrK25atLWRSb4CaZz.jpg<br>https://images.plurk.com/4V
     <th>Time</th>
   </tr>
     <tr>
-    <td>手機遊戲設計－－棒打老虎雞吃蟲</td>
-    <td>企劃簡述</td> 
-    <td>https://images.plurk.com/68kGZG80fTi7OH0eCaZz.jpg </td>
+    <td>手機遊戲設計</td>
+    <td>棒打老虎雞吃蟲</td> 
+    <td><a href="https://images.plurk.com/68kGZG80fTi7OH0eCaZz.jpg">簡述</a> </td>
     <td>2016/12</td>
   </tr>
   <tr>
-    <th>視窗應用程式</th>
-    <th>簡易取色視窗</th>
-    <th><a href="https://drive.google.com/open?id=1H2v4gBOc2GXppooJHiC5QpX1Xk4slUh9">執行檔</a><br><a href="https://paste.plurk.com/show/4umEyIZY4I6QVUSir0H4/">程式碼</a></th>
-    <th>2016/12</th>
+    <td>視窗應用程式</td>
+    <td>簡易取色視窗</td>
+    <td>
+      <a href="https://drive.google.com/open?id=1H2v4gBOc2GXppooJHiC5QpX1Xk4slUh9">執行檔</a><br>
+      <a href="https://paste.plurk.com/show/4umEyIZY4I6QVUSir0H4/">程式碼</a></td>
+    <td>2016/12</td>
+  </tr>
+  <tr>
+    <td>視窗應用程式</td>
+    <td>簡易看圖程式</td>
+    <td>
+      <a href="https://drive.google.com/open?id=1fByzPw_4KAvkHbppF4EQCq6uPeSboRPU">執行檔</a><br>
+      <a href="https://paste.plurk.com/show/u7f6UrA1XhzROaASo2eY/">程式碼</a></td>
+    <td>2016/12</td>
+  </tr>
+  <tr>
+    <td>視窗應用程式</td>
+    <td>簡易訂貨程式</td>
+    <td>
+      <a href="https://drive.google.com/open?id=1_0xsir0o4c1lh7cblvshD6cHEq6XARPs">執行檔</a><br>
+      <a href="https://paste.plurk.com/show/mch9kdfy9x38giDy3Wwq/">程式碼</a></td>
+    <td>2016/12</td>
+  </tr>
+  <tr>
+    <td>視窗應用程式</td>
+    <td>簡易踩地雷</td>
+    <td>
+      <a href="https://drive.google.com/open?id=1GS_XwNFrr4r2xz6tEZzPCZ2XuSG3vk1z">執行檔</a><br>
+      <a href="https://paste.plurk.com/show/dBjelY43WmlK8lyMzjar/">程式碼_1</a>
+      <a href="https://paste.plurk.com/show/lLux8QBrGTEkvbDRUv7f/">程式碼_2</a></td>
+    <td>2016/12</td>
   </tr>
 </table>
