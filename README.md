@@ -221,6 +221,15 @@
       <a href="https://drive.google.com/open?id=1GS_XwNFrr4r2xz6tEZzPCZ2XuSG3vk1z">執行檔</a><br>
       <a href="https://paste.plurk.com/show/dBjelY43WmlK8lyMzjar/">程式碼_1</a>
       <a href="https://paste.plurk.com/show/lLux8QBrGTEkvbDRUv7f/">程式碼_2</a></td>
-    <td>2016/12</td>
+    <td>2017/01</td>
+  </tr>
+  <tr>
+    <td>視窗應用程式</td>
+    <td>九宮格</td>
+    <td>
+      <p>將正中央翻黃，其餘翻紅即獲勝。</p>
+      <a href="https://drive.google.com/open?id=1ra768rdDS4q87puLsT65aadezfcYiOF-">執行檔</a><br>
+      <a href="https://paste.plurk.com/show/eL6GvbofMSSWOqsIoEOk/">程式碼</a></td>
+    <td>2017/01</td>
   </tr>
 </table>
