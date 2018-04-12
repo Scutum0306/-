@@ -110,10 +110,29 @@
     <td>2017/01</td>
   </tr>
   <tr>
-    <td>手機遊戲設計－－棒打老虎雞吃蟲</td>
-    <td>企劃簡述</td> 
-    <td>https://images.plurk.com/68kGZG80fTi7OH0eCaZz.jpg </td>
+    <td>3Dmax練習</td>
+    <td>3Dmax練習</td> 
+    <td>https://images.plurk.com/5OGiziShfXOsEjUCCaZz.jpg<br>https://images.plurk.com/3wSAvUVbQe4gBMQcCaZz.jpg<br>https://images.plurk.com/4z3F9SfDVv9KHELSCaZz.jpg<br>https://images.plurk.com/4NtERuGr3WfVg4SICaZz.jpg<br>https://images.plurk.com/6Yor89JLGBU4brWrCaZz.jpg<br>https://images.plurk.com/6KMbTmUpb7bvylBTCaZz.jpg<br>https://images.plurk.com/4r17499J9xGDisoJCaZz.jpg<br>https://images.plurk.com/672vhC2NIWji9YGvCaZz.jpg<br>https://images.plurk.com/2iGsOORXZmtu2TZVCaZz.jpg<br>https://images.plurk.com/6SEjObrDRFWK1HI4CaZz.jpg<br>https://images.plurk.com/5xv2IO57mdjFKBDRCaZz.jpg<br>https://images.plurk.com/JVCDHfpsrvlNGXivCaZz.jpg<br>https://images.plurk.com/3QDsl0uu4Gk0VE7FCaZz.jpg </td>
     <td>2016/12</td>
+  </tr>
+  <tr>
+    <td>平面設計</td>
+    <td>課堂作業</td> 
+    <td>菜單：<br>https://images.plurk.com/5UhrQbsYAhjE1vgICaZz.jpg<hr>網路成癮防治：<br>https://images.plurk.com/2VfxVPXxUkv8amR5CaZz.jpg </td>
+    <td>2016/10</td>
+  </tr>
+  <tr>
+    <td>明信片設計</td>
+    <td>Less Trash More Life</td> 
+    <td>正面<br>https://images.plurk.com/f4YW8KQqTJTgSZ29CaZz.jpg<br>https://images.plurk.com/4HnCACYVY60fdQGmCaZz.jpg<br>https://images.plurk.com/5xIJDvtok7cyWGaXCaZz.jpg  <hr>背面：<br>https://images.plurk.com/e2fGobj9c0GIHiawCaZz.jpg<br>
+https://images.plurk.com/31QTrK25atLWRSb4CaZz.jpg<br>https://images.plurk.com/4VymxT8G1wDPn89BCaZz.jpg </td>
+    <td>2016/11</td>
+  </tr>
+  <tr>
+    <td>活動導覽手冊設計</td>
+    <td>米干美食文化祭</td> 
+    <td>手冊：<br>https://images.plurk.com/7MEaqSRP60B28XfHCaZz.jpg<br>https://images.plurk.com/6pzNIN2D8uzzIkI2CaZz.jpg<br>https://images.plurk.com/7hxV6JEnGyLY6QbGCaZz.jpg<br>https://images.plurk.com/1Om0Jkc5D70JLSDCCaZz.jpg  <hr>導覽單：<br>https://images.plurk.com/24zyqo1cXyFBB0fMCaZz.jpg </td>
+    <td>2017/01</td>
   </tr>
 </table>
 
@@ -125,4 +144,10 @@
     <th>link</th>
     <th>Time</th>
   </tr>
+    <tr>
+    <td>手機遊戲設計－－棒打老虎雞吃蟲</td>
+    <td>企劃簡述</td> 
+    <td>https://images.plurk.com/68kGZG80fTi7OH0eCaZz.jpg </td>
+    <td>2016/12</td>
+  </tr>
 </table>
