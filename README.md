@@ -6,7 +6,7 @@
   <a href="#"><li>大四</li></a>
 </ul>
 
-<h4>大一</h4>
+<h4 id="fir">大一</h4>
 <h5>設計<h5>
 <table>
   <tr>
@@ -69,6 +69,34 @@
     <td>成品：https://images.plurk.com/25Pm6f4QDxJW9Tl8CaZz.jpg<hr>參考圖片：https://images.plurk.com/2x2Xpj0Rgwpo3c6lCaZz.jpg<hr>使用素材：<br>https://images.plurk.com/2k2MgFsDHvkNNz1lCaZz.jpg<br>https://images.plurk.com/7AKbEWaPB6YGTej7CaZz.jpg<br>https://images.plurk.com/4Nyi1yapNkPET1MaCaZz.jpg<br>https://images.plurk.com/5TPKznOew1SsP3t5CaZz.jpg<br>https://images.plurk.com/60Ntnq6UbFx79byvCaZz.jpg<br>https://images.plurk.com/4Br1UEMgzFxjyCGJCaZz.jpg<br>https://images.plurk.com/5fNoFlxasLqU4O74CaZz.jpg<br>https://images.plurk.com/1r1AD9sNCZ4X0xhoCaZz.jpg<br></td>
     <td>2016/04</td>
   </tr>
+</table>
+
+<h5>程式<h5>
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Name</th>
+    <th>link</th>
+    <th>Time</th>
+  </tr>
+  <tr>
+    <td>C++動態配置作業</td>
+    <td>malloc</td>
+    <td>https://paste.plurk.com/show/2626090/</td> 
+    <td>2016/04</td>
+  </tr>
+</table>
+
+
+<h4 id="sec">大二</h4>
+<h5>設計<h5>
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Name</th>
+    <th>link</th>
+    <th>Time</th>
+  </tr>
   <tr>
     <td>互動腳本期中劇本</td>
     <td>迷途</td> 
@@ -81,24 +109,20 @@
     <td>https://drive.google.com/open?id=1W9T-fJAcxApSw3GcoYF2l6tWkxvANush</td>
     <td>2017/01</td>
   </tr>
+  <tr>
+    <td>手機遊戲設計－－棒打老虎雞吃蟲</td>
+    <td>企劃簡述</td> 
+    <td>https://images.plurk.com/68kGZG80fTi7OH0eCaZz.jpg </td>
+    <td>2016/12</td>
+  </tr>
 </table>
 
 <h5>程式<h5>
-<table style="width:100%">
+<table>
   <tr>
-    <th>C++動態配置作業</th>
-    <th>malloc</th>
-    <th>https://paste.plurk.com/show/2626090/</th> 
-    <th>2016/04</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td> 
-    <td>94</td>
+    <th>Project</th>
+    <th>Name</th>
+    <th>link</th>
+    <th>Time</th>
   </tr>
 </table>
