@@ -18,7 +18,7 @@
   <tr>
     <td>桌遊設計</td>
     <td>外盒</td> 
-    <td><br>封面: https://images.plurk.com/7dLuKIBXNCZwBu9dCaZz.jpg<hr>封底: https://images.plurk.com/7mcbEiPumYKKb3frCaZz.jpg<hr>封背: https://images.plurk.com/4f6uIf8ZxpVhCL1GCaZz.jpg<br></td>
+    <td><br><a href="https://images.plurk.com/7dLuKIBXNCZwBu9dCaZz.jpg">封面</a><br><a href="https://images.plurk.com/7mcbEiPumYKKb3frCaZz.jpg">封底</a><br><a href="https://images.plurk.com/4f6uIf8ZxpVhCL1GCaZz.jpg">封背</a></td>
     <td>2016/04</td>
   </tr>
   <tr>
@@ -153,7 +153,7 @@ https://images.plurk.com/31QTrK25atLWRSb4CaZz.jpg<br>https://images.plurk.com/4V
   <tr>
     <th>視窗應用程式</th>
     <th>簡易取色視窗</th>
-    <th><a href="https://drive.google.com/open?id=1H2v4gBOc2GXppooJHiC5QpX1Xk4slUh9">執行檔</a></th>
-    <th>Time</th>
+    <th><a href="https://drive.google.com/open?id=1H2v4gBOc2GXppooJHiC5QpX1Xk4slUh9">執行檔</a><br><a href="https://paste.plurk.com/show/4umEyIZY4I6QVUSir0H4/">程式碼</a></th>
+    <th>2016/12</th>
   </tr>
 </table>
