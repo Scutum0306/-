@@ -153,7 +153,7 @@ https://images.plurk.com/31QTrK25atLWRSb4CaZz.jpg<br>https://images.plurk.com/4V
   <tr>
     <th>視窗應用程式</th>
     <th>簡易取色視窗</th>
-    <th>link</th>
+    <th><a href="https://drive.google.com/open?id=1H2v4gBOc2GXppooJHiC5QpX1Xk4slUh9">執行檔</a></th>
     <th>Time</th>
   </tr>
 </table>
